@@ -34,8 +34,8 @@
 
 ### 下载
 下载这三个文件后，放到同一文件夹中即可（建议全英文路径）：
-Generate-StressTestData.ps1。
-双击运行工具.bat。
+Generate-StressTestData.ps1、
+双击运行工具.bat、
 图形复制校验工具.ps1。
 
 ### 方式一：双击运行（推荐）
